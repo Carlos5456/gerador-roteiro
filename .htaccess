@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Área Restrita"
+AuthUserFile "CAMINHO ARQUIVO PASSWD"
+Require valid-user

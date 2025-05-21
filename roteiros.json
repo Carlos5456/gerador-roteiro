@@ -1,0 +1,29 @@
+{
+  "SC": [
+    "Tangará, Santa Catarina",
+    "Siqueira Campos, Paraná",
+    "Francisco Beltrão, Paraná",
+    "Porto União, Santa Catarina",
+    "Herval d'Oeste, Santa Catarina"
+  ],
+    "PR": [
+      "Pérola d'Oeste, Paraná",
+      "Chapecó, Santa Catarina",
+      "Francisco Beltrão, Paraná",
+      "Cascavel, Paraná",
+      "Marmeleiro, Paraná",
+      "Capinzal, Santa Catarina",
+      "Xanxerê, Santa Catarina",
+      "Santa Izabel do Oeste, Paraná",
+      "Palmas, Paraná",
+      "Pato Branco, Paraná"
+  ],
+  "SP": [
+    "Suzano, São Paulo",
+    "Caraguatatuba, São Paulo",
+    "Guarulhos, São Paulo",
+    "Lages, Santa Catarina",
+    "São Paulo, São Paulo",
+    "Poá, São Paulo"
+  ]
+}
